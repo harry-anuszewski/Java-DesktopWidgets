@@ -1,5 +1,5 @@
 # Java-Widgets
-============
+
 CS338 Project
 
 ## About
