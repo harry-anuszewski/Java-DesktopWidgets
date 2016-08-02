@@ -27,7 +27,7 @@ This widget uses [OpenWeatherMap](http://openweathermap.org/). You will need to 
 * Dashboard overlay pinning & keyboard shortcut or Right on Desktop
 * Close all widgets
 * Launch on startup
-* 
+ 
 
 
 
